@@ -1,0 +1,44 @@
+/*tag or element selector*/
+h1{
+	border: 5px solid gray;
+	font-size: 35px;
+	background-color: rgba(102, 205, 170, .5);
+	text-align: center;
+}
+
+/* class selector */
+.text{
+	font-size: 17px;
+}	
+
+.title{
+	color: darkred;
+}
+
+.font{
+	font-style: italic;
+	font-size: 20px;
+	background-color: rgba(175,238,238,.4);
+}
+
+.name{
+	font-size: 27px;
+}
+
+/* id selector */
+#head{
+	background-color: #EEE8AA;
+}
+
+.box{
+	border: 5px;
+	background-color: rgb(224, 255, 255);
+	width:200px;
+	height: 134px;
+	color: darkblue;
+}
+
+.font_color{
+	 font-weight: 600;
+	color: #191970;
+}
